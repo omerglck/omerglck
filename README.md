@@ -12,7 +12,7 @@
 ## Reach out to me
 
 
-<img  width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter].svg" /><img  width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />
+<img  width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /><img  width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />
 
 
 <br/><br/>
