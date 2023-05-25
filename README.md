@@ -11,7 +11,7 @@
 
 ## Reach out to me
 
-<a href="https://www.linkedin.com/in/omerglck/"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" /></a><a href="https://twitter.com/omerglck"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/omerglck/"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/mail.svg" />
+<a href="https://www.linkedin.com/in/omerglck/"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" /></a><a href="https://twitter.com/omerglck"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/omerglck/"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/e-mail.svg" />
 
 
 
