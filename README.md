@@ -12,9 +12,8 @@
 ## Reach out to me
 
 
+<img  width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter].svg" /><img  width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />
 
-<img width="22" gap="5px" src="https://camo.githubusercontent.com/5a80ee9ae0003ea2d6bb236047068320478d044f4ddcb0275b32930d6ab3b872/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076382f69636f6e732f747769747465722e737667)"  align="left"/>
-<img width="22" src="https://camo.githubusercontent.com/91b60768c82e7eecba13f9558a05cabaa6099b7aa69070bd103fd39a2f5da486/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076382f69636f6e732f6c696e6b6564696e2e737667)"  align="left"/>
 
 <br/><br/>
  
