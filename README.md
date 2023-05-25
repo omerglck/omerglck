@@ -11,8 +11,8 @@
 
 ## Reach out to me
 
+<a href="https://www.linkedin.com/in/omerglck/"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" /></a><a href="https://twitter.com/omerglck"><img  width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /></a>
 
-<img  width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /><img  width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />
 
 
 <br/><br/>
