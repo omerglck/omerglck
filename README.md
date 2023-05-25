@@ -13,8 +13,8 @@
 
 
 
-<img width="22" gap="5px" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg"  align="left"/>
-<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"  align="left"/>
+<img width="22" gap="5px" src="https://twitter.com/omerglck"  align="left"/>
+<img width="22" src="https://www.linkedin.com/in/omerglck/"  align="left"/>
 
 <br/><br/>
  
