@@ -52,6 +52,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="./generated/overview.svg" alt="Overview Stats" />
-  <img src="./generated/languages.svg" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </div>
